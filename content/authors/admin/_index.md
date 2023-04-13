@@ -1,6 +1,6 @@
 ---
 title: Vikram Kher
-role: Professor of Artificial Intelligence
+role: 1st Year PhD Student
 bio: My research interests include Algorithms.
 interests:
   - Artificial Intelligence
@@ -29,8 +29,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Yale University
+    url: https://cpsc.yale.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -45,11 +45,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Kher
 highlight_name: true
-first_name: Alice
+first_name: Vikram
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+TEST: Vikram kher is a 1st year PhD student at  of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
