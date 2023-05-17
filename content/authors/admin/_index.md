@@ -1,5 +1,5 @@
 ---
-title: Vikram Kher
+title: UNDER CONSTRUCTION
 role: 1st Year PhD Student
 bio: My research interests include Algorithms.
 interests:
@@ -33,8 +33,8 @@ organizations:
     url: https://cpsc.yale.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: Yale University
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
@@ -51,5 +51,5 @@ first_name: Vikram
 email: ""
 ---
 
-TEST: Vikram kher is a 1st year PhD student at  of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+TEST: SAMPLE is a 1st year PhD student at Yale
 {style="text-align: justify;"}
