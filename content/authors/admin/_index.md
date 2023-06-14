@@ -1,33 +1,25 @@
 ---
 title: UNDER CONSTRUCTION
 role: 1st Year PhD Student
-bio: My research interests include Algorithms.
+bio: My research interests include Algorithm Design.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algorithm Design
+  - Algorithmic Game Theory
+  - Auction Theory
+  - Computational Social Choice
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/vikram-kher
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 organizations:
   - name: Yale University
     url: https://cpsc.yale.edu/
@@ -51,5 +43,5 @@ first_name: Vikram
 email: ""
 ---
 
-TEST: SAMPLE is a 1st year PhD student at Yale
+I am a 1st year PhD student in the Yale Theory Group. My research focuses on designing efficient algorithms for problems in. Prior to Yale, I worked with Prof. David Kempe on committee election problems. 
 {style="text-align: justify;"}
