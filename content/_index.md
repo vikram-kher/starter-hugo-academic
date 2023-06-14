@@ -11,7 +11,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      education:
       text:
   - block: collection
     id: publications
