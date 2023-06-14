@@ -1,7 +1,7 @@
 ---
 title: UNDER CONSTRUCTION
 role: 1st Year PhD Student
-bio: My research interests include Algorithm Design.
+bio: As a researcher, I am interested in algorithm design and its interface with problems in economics and social choice.
 interests:
   - Algorithm Design
   - Algorithmic Game Theory
@@ -27,20 +27,20 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Yale University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2028
+    - course: BS in Computer Science, Summa Cum Laude
+      institution: University of Southern California
+      year: 2022
+    - course: BA in Applied and Computational Mathematics, Summa Cum Laude
+      institution: University of Southern California
+      year: 2022
 superuser: true
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 last_name: Kher
 highlight_name: true
 first_name: Vikram
-email: "test"
+email: ""
 ---
 
 I am a 1st year PhD student in the Yale Theory Group. My research focuses on designing efficient algorithms for problems in. Prior to Yale, I worked with Prof. David Kempe on committee election problems. 
