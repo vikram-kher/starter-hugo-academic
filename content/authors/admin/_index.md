@@ -40,7 +40,7 @@ status:
 last_name: Kher
 highlight_name: true
 first_name: Vikram
-email: ""
+email: "test"
 ---
 
 I am a 1st year PhD student in the Yale Theory Group. My research focuses on designing efficient algorithms for problems in. Prior to Yale, I worked with Prof. David Kempe on committee election problems. 
