@@ -110,4 +110,22 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      # text: |-
+      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # Contact (add or remove contact options as necessary)
+      email: vikram [dot] kher [at] yale [dot] edu
+      address:
+        street: Arthur K. Watson Hall, 51 Prospect Street
+        city: New Haven
+        region: CT
+        postcode: '06511'
+        country: United States
+        country_code: US
+    design:
+      columns: '2'
 ---
