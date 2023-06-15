@@ -2,7 +2,7 @@
 title: Fine-Grained Buy-Many Mechanisms Are Not Much Better Than Bundling
 
 event: USC Computer Science Theory Group
-event_url: https://example.org
+event_url: https://viterbi-web.usc.edu/~cstheory/index.html#people
 
 # location: Wowchemy HQ
 # address:
@@ -17,9 +17,9 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+ date: '2030-06-01T13:00:00Z'
+ date_end: '2030-06-01T15:00:00Z'
+ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
