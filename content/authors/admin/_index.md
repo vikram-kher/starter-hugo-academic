@@ -4,7 +4,7 @@ role: 1st Year PhD Student
 bio: As a researcher, I am interested in algorithm design and its interface with problems in economics and social choice.
 interests:
   - Algorithm Design
-  - Algorithmic Game Theory
+  - Game Theory
   - Auction Theory
   - Computational Social Choice
 social:
@@ -43,5 +43,5 @@ first_name: Vikram
 email: ""
 ---
 
-I am a 1st year PhD student in the Yale Theory Group. My research focuses on designing efficient algorithms for problems in. Prior to Yale, I worked with Prof. David Kempe on committee election problems. 
+I am a 1st year PhD student in the Yale Theory Group. My research focuses on algorithm design and its interface with problems in economics and social choice. During my undergrad at USC, I was fortuante to work with Prof. [David Kempe](https://david-kempe.com/) on algorithms for fair committee elections and Prof. [Assad Oberai](https://sites.usc.edu/oberai/) on using machine learning to predict COVID-19 disease severity. I also had the wonderful opportunity to participate in the 2022 [DIMACS REU](https://reu.dimacs.rutgers.edu/), where I worked with [Dr. Ariel Schvartzman](https://sites.google.com/view/arielsch/home) on topics in auction theory. 
 {style="text-align: justify;"}
