@@ -1,7 +1,7 @@
 ---
 title: UNDER CONSTRUCTION
 role: 1st Year PhD Student
-bio: As a researcher, I am interested in algorithm design and its interface with problems in economics and social choice.
+bio:
 interests:
   - Algorithm Design
   - Game Theory
