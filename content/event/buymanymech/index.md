@@ -35,10 +35,10 @@ featured: false
 # focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #  icon_pack: fab
+  #  name: Follow
+  #  url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: 'https://github.com/vikram-kher/vikram-kher.github.io/blob/master/USC_Theory_Lunch_Presentation_2022.pdf'
