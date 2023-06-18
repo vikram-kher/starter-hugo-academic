@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Scientific Reports"
+publication: "*Journal of Scientific Reports*"
 publication_short: ""
 
 abstract: Predictors of the need for intensive care and mechanical ventilation can help healthcare systems in planning for surge capacity for COVID-19. We used socio-demographic data, clinical data, and blood panel profile data at the time of initial presentation to develop machine learning algorithms for predicting the need for intensive care and mechanical ventilation. Among the algorithms considered, the Random Forest classifier performed the best with AUC=0.80 for predicting ICU need and AUC=0.82 for predicting the need for mechanical ventilation. We also determined the most influential features in making this prediction, and concluded that all three categories of data are important. We determined the relative importance of blood panel profile data and noted that the AUC dropped by 0.12 units when this data was not included, thus indicating that it provided valuable information in predicting disease severity. Finally, we generated RF predictors with a reduced set of five features that retained the performance of the predictors trained on all features. These predictors, which rely only on quantitative data, are less prone to errors and subjectivity.
