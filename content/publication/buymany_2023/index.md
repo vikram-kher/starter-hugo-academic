@@ -26,7 +26,7 @@ publication_types: ['1']
 publication: *24th ACM Conference on Economics and Computation*
 publication_short: *EC 2023*
 
-# abstract:
+abstract: We introduce a new parameterized class of mechanisms, buy-k mechanisms, which smoothly interpolate between the classical buy-one mechanisms and the recently studied buy-many mechanisms.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
