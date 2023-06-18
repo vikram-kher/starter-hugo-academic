@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: 
+    link: https://scholar.google.com/citations?user=2l-T1iEAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/vikram-kher
