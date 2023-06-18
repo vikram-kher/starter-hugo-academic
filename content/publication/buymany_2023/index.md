@@ -6,7 +6,7 @@ title: 'Fine-Grained Buy-Many Mechanisms Are Not Much Better Than Bundling'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Sepehr Assadi
-  - Vikram Kher
+  - admin
   - George Li
   - Ariel Schvartzman
 
@@ -24,7 +24,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Economics and Computation*
-publication_short: In *EC*
+publication_short: In *EC 2023*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
