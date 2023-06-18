@@ -42,11 +42,11 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/vikram-kher/Computing-Revenue-Optimal-Buy-k-Auctions'
+# url_code: 'https://github.com/vikram-kher/Computing-Revenue-Optimal-Buy-k-Auctions'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://github.com/vikram-kher/vikram-kher.github.io/blob/master/USC_Theory_Lunch_Presentation_2022.pdf'
+# url_slides: 'https://github.com/vikram-kher/vikram-kher.github.io/blob/master/USC_Theory_Lunch_Presentation_2022.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 
