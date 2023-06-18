@@ -70,5 +70,5 @@ url_code: 'https://github.com/vikram-kher/Computing-Revenue-Optimal-Buy-k-Auctio
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
