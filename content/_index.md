@@ -16,10 +16,10 @@ sections:
     id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        [Filter Publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #  {{% callout note %}}
+      #  [Filter Publications](./publication/).
+      #  {{% /callout %}}
       filters:
         folders:
           - publication
