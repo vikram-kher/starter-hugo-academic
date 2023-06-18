@@ -1,5 +1,5 @@
 ---
-title: UNDER CONSTRUCTION
+title: Vikram Kher
 role: 1st Year PhD Student
 bio:
 interests:
