@@ -21,8 +21,7 @@ publication_types: ["1"]
 publication: "*Proceedings of the 24th ACM Conference on Economics and Computation*"
 publication_short: ""
 
-abstract: Predictors of the need for intensive care and mechanical ventilation can help healthcare systems in planning for surge capacity for COVID-19. We used socio-demographic data, clinical data, and blood panel profile data at the time of initial presentation to develop machine learning algorithms for predicting the need for intensive care and mechanical ventilation. Among the algorithms considered, the Random Forest classifier performed the best with AUC=0.80 for predicting ICU need and AUC=0.82 for predicting the need for mechanical ventilation. We also determined the most influential features in making this prediction, and concluded that all three categories of data are important. We determined the relative importance of blood panel profile data and noted that the AUC dropped by 0.12 units when this data was not included, thus indicating that it provided valuable information in predicting disease severity. Finally, we generated RF predictors with a reduced set of five features that retained the performance of the predictors trained on all features. These predictors, which rely only on quantitative data, are less prone to errors and subjectivity.
-
+abstract: We introduce a new parameterized class of mechanisms, buy-k mechanisms, which smoothly interpolate between the classical buy-one mechanisms and the recently studied buy-many mechanisms. Buy-k mechanisms allow the buyer to buy up to k many menu options.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
