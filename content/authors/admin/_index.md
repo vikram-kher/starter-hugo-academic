@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Yale University
-      year: 2028
+      year: 2028 (Expected)
     - course: BS in Computer Science, Summa Cum Laude
       institution: University of Southern California
       year: 2022
