@@ -3,9 +3,9 @@ title: Vikram Kher
 role: 1st Year PhD Student
 bio:
 interests:
-  - Algorithm Design
-  - Game Theory
+  - Algorithmic Game Theory
   - Auction Theory
+  - Learning from Samples
   - Computational Social Choice
 social:
   - icon: envelope
