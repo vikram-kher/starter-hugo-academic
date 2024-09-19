@@ -43,7 +43,7 @@ first_name: Vikram
 email: ""
 ---
 
-I am a 2nd year PhD student in the [Yale Theory Group](https://www.cs.yale.edu/theory/) advised by [Manolis Zampetakis](https://mzampet.com/). My research focuses on the intersection of algorithmic game theory and learning theory. As a researcher, I am deeply motivated to address the challenges of designing transparent, fair, and assumption-lean algorithmic systems. In particular, my overarching research goals are:
+I am a 2nd year PhD student in the [Yale Theory Group](https://www.cs.yale.edu/theory/) advised by [Manolis Zampetakis](https://mzampet.com/). My research focuses on the intersection of algorithmic game theory and learning theory. As a researcher, I am deeply motivated to address the challenges of designing transparent, fair, and assumption-lean algorithmic systems. In particular, my overarching research goals are to:
 - Develop theoretical models of economic and social exchanges that are realistic, easily interpretable, and require minimal assumptions,
 - Design algorithms with robust guarantees for equitable outcomes,
 - Prioritize algorithms that offer efficiently checkable certificates to validate their results. 
