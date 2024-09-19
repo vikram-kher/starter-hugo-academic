@@ -1,6 +1,6 @@
 ---
 title: Vikram Kher
-role: 1st Year PhD Student
+role: 2nd Year PhD Student
 bio:
 interests:
   - Algorithmic Game Theory
@@ -43,7 +43,10 @@ first_name: Vikram
 email: ""
 ---
 
-I am a 1st year PhD student in the [Yale Theory Group](https://www.cs.yale.edu/theory/) advised by [Manolis Zampetakis](https://mzampet.com/). My research focuses on algorithm design and its interface with problems in economics and social choice. My overarching research goals are to: (1) develop theoretical models of economic and social exchanges that more closely mimic real-life human interactions, (2) create algorithms with robust theoretical guarantees for equitable outcomes.
+I am a 2nd year PhD student in the [Yale Theory Group](https://www.cs.yale.edu/theory/) advised by [Manolis Zampetakis](https://mzampet.com/). My research focuses on the intersection of algorithmic game theory and learning theory. As a researcher, I am deeply motivated to address the challenges of designing transparent, fair, and assumption-lean algorithmic systems. In particular, my overarching research goals are:
+- 1) Develop theoretical models of economic and social exchanges that are realistic, easily interpretable, and require minimal assumptions,
+- 2) Design algorithms with robust guarantees for equitable outcomes,
+- 3) Prioritize algorithms that offer efficiently checkable certificates to validate their results. 
 
 During my undergrad at USC, I was fortunate to work with Prof. [David Kempe](https://david-kempe.com/) on algorithms for fair committee elections and with Prof. [Assad Oberai](https://sites.usc.edu/oberai/) on using machine learning to predict COVID-19 disease severity. In 2022, I participated in the [DIMACS REU](https://reu.dimacs.rutgers.edu/), where I worked with Dr. [Ariel Schvartzman](https://sites.google.com/view/arielsch/home) on topics in auction theory. 
 {style="text-align: justify;"}
